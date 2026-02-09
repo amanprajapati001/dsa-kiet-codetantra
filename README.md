@@ -26,7 +26,7 @@ Key Code: * .remove(index): To delete an element.
 
 <br>
 <br>
-5. Topic: ArrayList Basic Implementation
+4. Topic: ArrayList Basic Implementation
 Image:<img width="1920" height="1080" alt="ArrayList Basic Iteration   Input" src="https://github.com/user-attachments/assets/e0134b28-f198-41a0-9b00-ffb3ec6efe71" />
 Concepts Covered: Basic input handling and generic List declaration.
 Key Code: List<String> namesList = new ArrayList<String>(); and printing the entire list object directly.
@@ -40,7 +40,7 @@ Key Code: Using .addElement() instead of .add() and traversing using itr.hasNext
 
 <br>
 <br>
-7. Topic: Stack Data Structure (LIFO)
+6. Topic: Stack Data Structure (LIFO)
 Image: <img width="1920" height="1080" alt="Data Structure (LIFO)" src="https://github.com/user-attachments/assets/4faf2b4d-5466-4e15-9934-f3f7b8734597" />
 Concepts Covered: Implementation of the Last-In-First-Out (LIFO) principle.
 Key Code: .push() to add items to the top and .pop() to remove and return the topmost item in a while loop.
