@@ -55,9 +55,19 @@ Key Code: * .remove(Object): Returns a boolean indicating if the removal was suc
 
 <br>
 <br>
-
 8. Topic: Understanding Map Interface (Key-Value Pairs)
 Image: <img width="1920" height="1080" alt="Understanding Map Interface" src="https://github.com/user-attachments/assets/c28308bd-4078-4abe-a58f-bbebb09743c5" />
-
 Concepts Covered: Storing and managing data in unique key-value pairs using the Map interface.
+Key Code: * put(K key, V value): Used to add a new mapping or update an existing value (e.g., changing "IN" from "India" to "Bharat").
+
+<br>
+<br>
+9. Topic: Queue and Deque Interface (FIFO & Double-Ended)
+Image: <img width="1920" height="1080" alt="Queue and Deque Interface" src="https://github.com/user-attachments/assets/8c32707a-7972-4bce-bc3e-530a3d2f667f" />
+Concepts Covered: Managing collections designed for holding elements prior to processing, specifically First-In-First-Out (FIFO) and double-ended queues.
+Key Code: * poll(): Retrieves and removes the head of the queue.
+
+<br>
+<br>
+
 
