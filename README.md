@@ -53,3 +53,11 @@ Concepts Covered: Managing a collection of unique items where duplicates are not
 Key Code: * .remove(Object): Returns a boolean indicating if the removal was successful.
 .contains(Object): Checks for the existence of an item within the Set.
 
+<br>
+<br>
+
+8. Topic: Understanding Map Interface (Key-Value Pairs)
+Image: <img width="1920" height="1080" alt="Understanding Map Interface" src="https://github.com/user-attachments/assets/c28308bd-4078-4abe-a58f-bbebb09743c5" />
+
+Concepts Covered: Storing and managing data in unique key-value pairs using the Map interface.
+
