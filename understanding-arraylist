@@ -1,8 +1,0 @@
-1. Topic: Understanding ArrayList (Constructors & Size)
-Image: Array List.jpg
-
-Concepts Covered: Initialization of ArrayLists using different constructors and understanding the difference between capacity and size.
-
-Key Code: Using aList.size() to get the element count and new ArrayList(aList) to copy one list into another.
-
-Image: <img width="1920" height="1080" alt="Array List" src="https://github.com/user-attachments/assets/921d6c6d-f1b3-471b-8555-9300f989b6ac" />
