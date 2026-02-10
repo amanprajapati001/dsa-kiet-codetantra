@@ -76,6 +76,11 @@ Key Operations: \": Used to include a double quote inside a string (e.g., printi
 
 <br>
 <br>
-
+11. Topic: Iterating through a Multidimensional Array
+Image: <img width="1920" height="1080" alt="Iterating through a multidimensional array" src="https://github.com/user-attachments/assets/3c00b57e-5e89-4072-a43d-84b415359e38" />
+Concepts Covered: Using nested enhanced for loops (for-each loops) to traverse a 2D integer array.<br>
+Key Operations: <br>
+for(int[] row : int2DArr): The outer loop picks each row of the 2D array.<br>
+for(int element : row): The inner loop picks each individual integer from that row.
 
 
