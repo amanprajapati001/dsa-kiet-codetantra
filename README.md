@@ -102,3 +102,12 @@ Image: <img width="1920" height="1080" alt="Escape Sequences" src="https://githu
 Concepts Covered: Practical application of escape characters to produce specific text output containing quotes.<br>
 Key Operations: The code correctly implements \"BLUE to ensure the output displays a literal double-quote before the word BLUE.
 
+<br>
+<br>
+13. Topic: Escape Sequences (Complex String Formatting)
+Image: <img width="1920" height="1080" alt="Escape Sequences Complex String Formatting" src="https://github.com/user-attachments/assets/3e785dec-2880-497a-9f5b-2faa774ff30b" />
+
+
+Description: Focuses on formatting complex strings, such as SQL-style INSERT statements, that require multiple internal quotes. <br>
+Key Operations: Uses \" multiple times within a single string to surround values like "10" and "Meka" with literal quotes.
+
