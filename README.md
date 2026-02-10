@@ -69,5 +69,13 @@ Key Code: * poll(): Retrieves and removes the head of the queue.
 
 <br>
 <br>
+10. Topic: Escape Sequences in Java
+Image: <img width="1920" height="1080" alt="Escape Sequences" src="https://github.com/user-attachments/assets/9994dd08-5e49-40fc-8722-b4d799e8d67f" />
+Concepts Covered: Using special characters (like backslashes) to include double quotes or new lines within a string literal without causing a syntax error.<br>
+Key Operations: \": Used to include a double quote inside a string (e.g., printing "She said, "It is wrongly called..."").
+
+<br>
+<br>
+
 
 
