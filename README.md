@@ -112,4 +112,10 @@ Key Operations: Uses \" multiple times within a single string to surround values
 <br>
 <br>
 14. Topic: Total Bill Amount – Java (CodeTantra)
+Image: <img width="1920" height="1080" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/e5a64d15-860a-408f-a33a-72ede05d1f6b" />
+
+
+Description: This program simulates a grocery store checkout system.<br>
+A cashier enters the price of each item, and the program calculates the final total bill amount for the customer.<br>
+The input continues until a negative number is entered. The negative value acts as a stop signal and is not included in the total.
 
